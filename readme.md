@@ -1,8 +1,4 @@
-Hey,
-
-Learnt a hefty amount of css doin it, maybe you will like it.
-
-Cursor's website updated recently, there will be minor changes in data.
+[Cursor](https://cursor.com/) clone with HTML and CSS.
 
 Check it out on this domain: [cursor-replica.vercel.app](https://cursor-replica.vercel.app/)
 
